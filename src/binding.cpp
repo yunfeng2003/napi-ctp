@@ -8,7 +8,6 @@
  *
  * https://github.com/shixiongfei/napi-ctp
  */
-
 #include "mdapi.h"
 #include "napi_ctp.h"
 #include "traderapi.h"
